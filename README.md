@@ -1,1 +1,1 @@
-# Szybki-Czo-g-antyRadziecki
+# Szybki-Czolg-antyRadziecki
