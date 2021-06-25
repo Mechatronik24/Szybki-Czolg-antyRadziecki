@@ -2,6 +2,10 @@
 łożysko 6000 10x26x8
 łozysko 6001 12x28x8
 
+przekładnia 1:30 lub 1:36
+
+2x3x5 lub 3x3x4
+
 do kupienia:
 śruby m3x30
 podkładki m3
