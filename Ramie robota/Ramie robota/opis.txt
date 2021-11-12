@@ -1,0 +1,24 @@
+												Ile sztuk:
+podstawa 01-1                 część podstawy zakrywająca serwo                 			1
+podstawa 01-2                 część podstawy w której zamontowane jest serwo			1
+podstawa 01-3                 mocowanie serwa od góry						1
+
+orczyk serwa okrągły 02-1     orczyk serwa 30x70						1
+orczyk serwa okrągły 02-2     orczyk serwa 20x40						5
+
+ramie 03-1                    obrotowa część ramienia osi 2					1
+ramie 03-2                    mocowanie dolne serwa osi 3					1
+ramie 03-3                    mocowanie górne serwa osi 3 i osi 5				2
+ramie 03-4		      obrotowa część osi 3 i osi 5					2			
+ramie 03-5			mocowanie górne serwa osi 4					1
+ramie 03-6			mocowanie dolne serwa osi 5					1
+ramie 03-7			mocowanie górne serwa osi 6					1
+
+pręt 04-1                     pręt m8								4
+
+mocowanie łożyska 10-1    mocowanie łożyska dla serwa 30x70					1
+mocowanie łożyska 10-2    mocowanie łożyska dla serwa 20x40					2
+mocowanie łożyska 10-3    dystans dla osi 2							1
+
+servo 20x40			serwo 35kg 							5
+servo 30x70			serwo 60kg							1
