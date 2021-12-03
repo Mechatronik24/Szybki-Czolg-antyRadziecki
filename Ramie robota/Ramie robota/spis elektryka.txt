@@ -1,0 +1,12 @@
+serwa 35kg   				4.8 - 7.2 V
+Serwo 60kg				6 - 8.4V
+Przetwornica 300w 20A 		        INPUT 6 - 40 v OUTPUT 1,2 - 35 V	 Step down
+LiPo 					7.4 V MAX 8.4 V
+
+Sterowanie serw:
+PCA9685   16 serw I2C
+lub
+Bezpośrednio Arduino Mega
+
+Zciągnięcie przewodów sygnałowych robota do podstawy
+			
