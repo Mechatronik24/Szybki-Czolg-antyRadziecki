@@ -1,1 +1,1 @@
-# Szybki-Czolg-antyRadziecki
+# Projekt platformy gasienicowej
